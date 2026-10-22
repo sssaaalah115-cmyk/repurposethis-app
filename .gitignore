@@ -1,0 +1,14 @@
+# never commit build output or secrets
+node_modules/
+dist/
+downloads/
+*.exe
+*.nupkg
+*.pem
+*.pfx
+license-issued.csv
+deliveries/
+testdata2/
+testaudit/
+_new/
+_orig/
